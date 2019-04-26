@@ -1,0 +1,19 @@
+{
+	"type":"repository",
+	"version":"master",
+	"category":"Sales Cloud",
+	"name":"Increase Number of Close Won Opportunities",
+	"image":"https://drive.google.com/uc?id=1_XKXuPh-Zjj5_Jx36usTkINK2NqJq2f_",
+	"description":"Get the Following Boosters: Increase the Number of opportunity, Increase the opportunities won, Your sales will grow rapidly",
+	"featured":"Yes",
+	"price":"2500",
+	"repo_name":"Increase-Number-of-Close-Won-Opportunities-Accelerators",
+	
+	"dependencies":[
+		{
+			"type":"linkRepository",
+			"version":"master",
+			"name":"FieloIncentiveAutomation/fielodeploy"
+		}
+	]
+}
