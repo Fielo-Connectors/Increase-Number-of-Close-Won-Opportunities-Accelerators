@@ -12,7 +12,7 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Sales_Cloud_Increase_the_Number_of_Close_Won_Opportunities</members>
+        <members>ClosingOpportunitiesBooster</members>
         <name>StaticResource</name>
     </types>
     <version>41.0</version>
